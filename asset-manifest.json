@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kirk-quiz/static/css/main.31d6cfe0.css",
+    "main.js": "/kirk-quiz/static/js/main.dd20f74b.js",
+    "static/media/coquette-kirk.png": "/kirk-quiz/static/media/coquette-kirk.77c5e105d47b53e1e2d8.png",
+    "static/media/spaghetti-kirk.png": "/kirk-quiz/static/media/spaghetti-kirk.d60b8531547d55cdfbd2.png",
+    "static/media/bat-kirk.png": "/kirk-quiz/static/media/bat-kirk.f63522526fffc3bf12cc.png",
+    "static/media/mr-rex.png": "/kirk-quiz/static/media/mr-rex.3ab768e92ece17896091.png",
+    "static/media/pastor-kirk.png": "/kirk-quiz/static/media/pastor-kirk.ba08eafb4b4d8a695429.png",
+    "static/media/roblox-kirk.png": "/kirk-quiz/static/media/roblox-kirk.6d3f750303658d5d9b25.png",
+    "index.html": "/kirk-quiz/index.html",
+    "main.dd20f74b.js.map": "/kirk-quiz/static/js/main.dd20f74b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.dd20f74b.js"
+  ]
+}
